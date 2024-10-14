@@ -23,4 +23,5 @@ Route::get('/about-us', function() {
 });
 
 
+
 require __DIR__.'/auth.php';
